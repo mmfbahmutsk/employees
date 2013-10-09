@@ -1,6 +1,12 @@
+#ignore .class files
 *.class
+bin/
+build/
+classes/
+/ep-eps2-builder/artefacts/*
+/ep-eps2-builder/dist/*
+/ep-eps2-builder/*.bat
+*.log
+*.txt
+*.zip
 
-# Package Files #
-*.jar
-*.war
-*.ear
